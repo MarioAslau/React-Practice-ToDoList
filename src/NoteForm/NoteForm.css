@@ -10,13 +10,13 @@
     padding: 8px 24px;
     font-size: 1.3em;
     font-family: 'Droid Sans', sans-serif;
-    background-color: #019875;
+    background-color: #1990ff;
     color: #fff;
     transition: 0.2s ease-out;
 }
 
 .noteButton:hover{
-    background-color: #02BA85;
+    background-color: #4ca8ff;
     color: #fff;
     transition: 0.2s ease-out;
 }
