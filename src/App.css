@@ -20,7 +20,7 @@ body {
   border: 0;
 }
 
-.NotesWrapper {
+.notesWrapper {
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
